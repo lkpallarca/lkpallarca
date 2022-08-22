@@ -1,4 +1,4 @@
-# Lance Pallarca
+# [Lance Pallarca](http://portfolio-lkpallarca.vercel.app/)
 Hi, I'm Lance!
 
 :airplane: As an Aeronautical Engineer, I graduated from [PATTS College of Aeronautics](https://www.patts.edu.ph/) and took my OJT at [Civil Aviation Authority of the Philippines](https://caap.gov.ph/). Having experienced the technical and governing side of aviation, I am always interested about the progress of the aviation industry as a whole and especially within the Philippines.
