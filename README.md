@@ -13,5 +13,5 @@ Previously, I was a frontliner for the Local Government Unit of Parañaque City.
 - Managing and directing time and effort to be as efficient as possible to accomplish tasks
 
 ## Get in touch
-- Gmail: kencepallarca@gmail.com
+- Gmail: lance.pallarca@firstcircle.com
 - LinkedIn: https://www.linkedin.com/in/lkpallarca/
