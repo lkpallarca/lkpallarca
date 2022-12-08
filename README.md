@@ -1,11 +1,13 @@
 # [Lance Kennard M. Pallarca](http://portfolio-lkpallarca.vercel.app/)
 Hi, I'm Lance!
 
-:airplane: As an Aeronautical Engineer, I graduated from [PATTS College of Aeronautics](https://www.patts.edu.ph/) and took my OJT at [Civil Aviation Authority of the Philippines](https://caap.gov.ph/). Having experienced the technical and governing side of aviation, I am always interested about the progress of the aviation industry as a whole and especially within the Philippines.
+👨‍💻 I am a Product Engineer at [First Circle](https://www.firstcircle.ph/). We specialize in building solutions to help SMEs grow.
 
-:computer: As a Software Developer, I graduated from the awesome bootcamp [Avion School](https://www.avionschool.com/). Having recently graduated, I am now focused on expanding my network and connecting with more people within the industry. Learning never stops and as a result, I am filled with purpose to strive for more.
+:airplane: As an Aeronautical Engineer, I graduated from [PATTS College of Aeronautics](https://www.patts.edu.ph/) and accomplished my OJT at [Civil Aviation Authority of the Philippines](https://caap.gov.ph/). Having experienced the engineering and governing side of aviation, I am always interested about the progress of the aviation industry especially within the Philippines.
 
-Previously, I was a frontliner for the Local Government Unit of Parañaque City. Before that, I worked as a Technical Support Representative for Alorica. 
+:computer: As a Software Developer, I graduated from the bootcamp [Avion School](https://www.avionschool.com/). I got a glimpse of the possibilities of Full Stack Development and learned to expand my network and connect with more people within the industry. Learning never stops and as a result, I am filled with purpose to strive for more.
+
+Previously, I was a frontliner for the Local Government Unit of Parañaque City. And before that, I worked as a Technical Support Representative for Alorica. 
 
 ## What I'm good at
 - Cooperating and working with a team to bring the best out of each other
