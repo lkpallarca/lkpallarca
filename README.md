@@ -1,7 +1,7 @@
 # [Lance Kennard M. Pallarca](http://portfolio-lkpallarca.vercel.app/)
 Hi, I'm Lance!
 
-👨‍💻 I am a Product Engineer at [First Circle](https://www.firstcircle.ph/). We specialize in building solutions to help SMEs grow.
+I am a Product Engineer at [First Circle](https://www.firstcircle.ph/). We specialize in building solutions to help SMEs grow.
 
 :airplane: As an Aeronautical Engineer, I graduated from [PATTS College of Aeronautics](https://www.patts.edu.ph/) and accomplished my OJT at [Civil Aviation Authority of the Philippines](https://caap.gov.ph/). Having experienced the engineering and governing side of aviation, I am always interested about the progress of the aviation industry especially within the Philippines.
 
