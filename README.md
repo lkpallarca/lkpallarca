@@ -7,8 +7,6 @@ I am a Product Engineer at [First Circle](https://www.firstcircle.ph/). We speci
 
 :computer: As a Software Developer, I graduated from the bootcamp [Avion School](https://www.avionschool.com/). I got a glimpse of the possibilities of Full Stack Development and learned to expand my network and connect with more people within the industry. Learning never stops and as a result, I am filled with purpose to strive for more.
 
-Previously, I was a frontliner for the Local Government Unit of Parañaque City. And before that, I worked as a Technical Support Representative for Alorica. 
-
 ## What I'm good at
 - Cooperating and working with a team to bring the best out of each other
 - Seeing the bigger picture and having a strong sense of goal and purpose when working on anything
