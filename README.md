@@ -10,5 +10,3 @@ I am a Product Engineer at [First Circle](https://www.firstcircle.ph/). We speci
 ## Get in touch
 - Gmail: lance.pallarca@firstcircle.com
 - LinkedIn: https://www.linkedin.com/in/lkpallarca/
-
-_Consilium ac implerem_
