@@ -8,5 +8,5 @@ I am a Product Engineer at [First Circle](https://www.firstcircle.ph/). We speci
 :airplane: As an Aeronautical Engineer, I graduated from [PATTS College of Aeronautics](https://www.patts.edu.ph/) and accomplished my OJT at [Civil Aviation Authority of the Philippines](https://caap.gov.ph/). Having experienced the engineering and governing side of aviation, I am always interested about the progress of the aviation industry.
 
 ## Get in touch
-- Gmail: lance.pallarca@firstcircle.com
+- Gmail: kencepallarca@gmail.com
 - LinkedIn: https://www.linkedin.com/in/lkpallarca/
